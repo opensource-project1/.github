@@ -117,7 +117,7 @@
 
 ---
 
-## 기여 가이드 (Contribution Guide)
+# 기여 가이드 (Contribution Guide)
 
 - 올가닉 Organization 리포지토리에 main, dev, 기능별 브랜치 생성.
 - 개발 완료 후 PR 요청 → 코드 리뷰 진행.
