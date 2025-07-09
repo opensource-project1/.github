@@ -104,6 +104,22 @@
 
 ---
 
+## 사용한 오픈소스
+
+- NestJS: Node.js 기반의 백엔드 프레임워크
+
+- Prisma: DB 접근을 위한 ORM 라이브러리
+
+- TypeScript: JavaScript의 상위 집합 언어, 정적 타입 지원
+
+- PM2: Node.js 애플리케이션의 프로세스 매니저
+
+- GitHub Actions: 워크플로우 기반의 CI/CD 자동화 도구
+
+- JWT (jsonwebtoken): 인증/인가를 위한 토큰 처리 라이브러리
+
+- ESLint, Prettier: 코드 스타일 및 품질 관리 도
+
 ## 배포 환경
 
 ### 백엔드
