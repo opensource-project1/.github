@@ -118,7 +118,9 @@
 
 - JWT (jsonwebtoken): 인증/인가를 위한 토큰 처리 라이브러리
 
-- ESLint, Prettier: 코드 스타일 및 품질 관리 도
+- ESLint, Prettier: 코드 스타일 및 품질 관리 도구
+
+---
 
 ## 배포 환경
 
